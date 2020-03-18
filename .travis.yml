@@ -5,7 +5,7 @@ jdk:
 addons:
  sonarcloud:
   organization: flaxalf
-  token: 8798bbff1fcf1bfd0b3f0964bcde3bd9c5464da1
+  token: c9cdb04d6821bf66e140050b7fa404d964542552
 script:
 - ant build
 - sonar-scanner
